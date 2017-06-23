@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<title>µÇÂ¼Ò³Ãæ</title>
+<body bgcolor="pink">
+<center>
+<h1>µÇÂ¼</h1>
+</br>
+<input type="test" required="required" placeholder="ÓÃ»§Ãû">
+</br>
+<input type="password" required="required" placeholder="ÃÜÂë">
+</br>
+<input type="button" value="µÇÂ¼" >
+</center>
+</body>
+</html>
